@@ -1,0 +1,6 @@
+if(message == "!tradelink"){
+			const filestockname = './/settings/Database/Credits/Credit.json';
+			const filestock = require(filestockname);
+		fs.writefile[steamID.toString()].tradelink 
+		client.chatMessage(steamID, "You successfully changed/set your tradelink")
+		}
